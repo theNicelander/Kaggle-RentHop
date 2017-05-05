@@ -54,7 +54,7 @@ The relative importance of each feature was used to determine its potential usef
 
 This was generated using the Extra-Trees Classifier which finds the mean importance of each feature over the number of trees used in the model (1000 trees were used in this instance). It was decided any feature below a threshold of 0.04 mean importance would be discarded from the modelling process.
 
-![feature-importance-petur-einarsson](https://github.com/Hunang/Kaggle-RentHop/blob/master/Images/feature-importance.PNG.PNG "feature-importance-petur-einarsson")
+![feature-importance-petur-einarsson](https://github.com/Hunang/Kaggle-RentHop/blob/master/Images/feature-importance.PNG "feature-importance-petur-einarsson")
 
 ## Algorithm comparison
 Aside from including better features, the other primary method of improving prediction was to compare various types of classification models and optimise their associated parameters. In each case, a number of parameters were optimised based on a range using 5-fold cross validation to minimise the risk of overfitting to the training dataset
