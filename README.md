@@ -4,7 +4,10 @@ Final project for Data Analytics class, QMUL 2017. Dataset and challenge taken f
 https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
 
 Using Supervised machine learning, find what makes a particular apartment rental stand out and get high interest. 
-Project written in Python, in Spyder IDE. Main third-party libraries which were used are SciKit learn, Pandas and MatplotLib.
+Project written in Python, in Spyder IDE. Main third-party libraries which were used are 
+- SciKit learn
+- Pandas 
+- MatplotLib.
 
 Below is a quick summary of the main points of the analysis - Full report is available in pdf (31 pages)
 
